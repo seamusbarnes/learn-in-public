@@ -2,6 +2,8 @@
 
 This repo is a semi-personal, public record of my software development learning journey. It was inspired heavily by [swyx](https://x.com/swyx)'s advice to ["learn in public"](https://gist.github.com/swyxio/9720bd4a30606ca3ffb8d407113c0fe5), which encourages the learner (me) to think deeply about what they are learning, and maybe can help someone on a similar path in the future. I will be focusing on documenting purely for myself for the time beging, as I don't expect anyone else to care, but the point is to produce content publicly, rather than simply consume it privately.
 
+If I am working on something that can be public, or going through a course or lecture/video series, I will keep track of it here.
+
 # The Story so Far
 
 I have spent about a year on and off learning programming (almost exclusively Python), data science and machine learning/AI. I used [leetcode](https://leetcode.com)/[neetcode](https://www.youtube.com/@NeetCode) to learn data structures and algorithms (and waste time with fun programming puzzles), [kaggle](https://www.kaggle.com/seamusbarnes) competitions to learn data science, Jeremy Howard's [fastai](https://course.fast.ai/) and Andrej Karpathy's [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) courses to learn machine learning, and messed around with other courses/projects/content here and there. I also started using Anki after reading Michael Nielsen's amazing essay [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html).
@@ -40,4 +42,5 @@ I have joined and competed in the following competitions:
 I wanted to digitise tabular data from Ordnance Survey historic land-use records, and after trying object character recognition techniques I tried using the openai api with gpt4-o and was able to digitise large sections of the dataset relatively easily. This project has the potential to save whoever evenutally digitises this data (e.g. the Ordance Survey) hundreds of hours of tedious data entry work.
 
 <u>Projects I want to do</u>
+\
 ...
