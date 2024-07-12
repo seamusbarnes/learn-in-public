@@ -1,4 +1,6 @@
 *.jpg
 *.jpeg
 *.png
+*.pkl
 datasets/
+venv/
