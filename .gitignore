@@ -4,3 +4,4 @@
 *.pkl
 datasets/
 venv/
+pytorch-image-models/
