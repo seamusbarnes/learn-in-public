@@ -41,7 +41,7 @@ pip install requests
 deactivate
 ```
 
-<b> Example python Script (`crypto-prices.py`) (complete script at the bottom of page)</b>
+<b> Example python Script (`crypto-prices.py`) (complete script available in same directory as this file)</b>
 
 ```python
 #!/usr/bin/env python3
